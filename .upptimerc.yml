@@ -10,7 +10,7 @@ sites:
   - name: Haworth Foro Law
     url: https://law.haworth-rp.com
   - name: Servidor de SA-MP (US-RP test)
-    url: https://server.us-rp.org:7777
+    url: https://www.open.mp/servers/37.230.137.174:7777
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
     
