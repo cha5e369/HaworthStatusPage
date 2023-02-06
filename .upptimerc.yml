@@ -2,10 +2,6 @@
 owner: SebaYB # Your GitHub organization or username, where this repository lives
 repo: HaworthStatusPage # The name of this repository
 
-# Tema
-status-website:
-  theme: dark
-
 sites:
   - name: Haworth Landing Page
     url: https://haworth-rp.com
@@ -105,4 +101,3 @@ i18n:
   
   # Adicionales
   user-agent: SebaYB
-
