@@ -10,7 +10,8 @@ sites:
   - name: Haworth Foro Law
     url: https://law.haworth-rp.com
   - name: Test
-    url: https://sampmonitoring.com/396/
+   # url: https://sampmonitoring.com/396/
+    url: https://sebayb.github.io/HaworthStatusPage
     
 assignees:
   - SebaYB
