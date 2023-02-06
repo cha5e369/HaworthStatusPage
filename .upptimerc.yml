@@ -9,10 +9,10 @@ sites:
     url: https://foro.haworth-rp.com
   - name: Haworth Foro Law
     url: https://law.haworth-rp.com
-  - name: Servidor de SA-MP (test)
-    url: https://store.steampowered.com/
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Servidor de SA-MP
+    check: "tcp-ping"
+    url: 198.251.81.222
+    port: 7787
     
 assignees:
   - SebaYB
