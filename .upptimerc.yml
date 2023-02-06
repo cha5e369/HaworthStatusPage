@@ -21,7 +21,7 @@ status-website:
   # cname: demo.upptime.js.org
   apiBaseUrl: https://api.github.com
   apiBaseUrl: https://sampmonitoring.com/web/api/396/
-  theme: dark
+  theme: ocean
   baseUrl: /HaworthStatusPage
   logoUrl: https://media.discordapp.net/attachments/1069721282435883119/1072015861617012756/falklandstrazo.png?width=325&height=325
   name: Haworth Roleplay
