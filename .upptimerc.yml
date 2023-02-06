@@ -7,7 +7,9 @@ sites:
     url: https://haworth-rp.com
   - name: Haworth Foro
     url: https://foro.haworth-rp.com
-  - name: Haworth Law Foro
+  - name: Haworth Foro Law
+    url: https://law.haworth-rp.com
+  - name: Servidor de SA-MP Haworth Roleplay 
     url: https://law.haworth-rp.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
