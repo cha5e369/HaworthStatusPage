@@ -13,6 +13,8 @@ sites:
     url: https://foro.haworth-rp.com
   - name: Haworth Foro Law
     url: https://law.haworth-rp.com
+  - name: Test
+    url: https://google.com
     
 assignees:
   - SebaYB
