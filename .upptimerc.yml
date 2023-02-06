@@ -9,8 +9,8 @@ sites:
     url: https://foro.haworth-rp.com
   - name: Haworth Foro Law
     url: https://law.haworth-rp.com
-  - name: Servidor de SA-MP
-    url: samp://server.us-rp.org:7777
+  - name: Servidor de SA-MP (US-RP test)
+    url: https://server.us-rp.org:7777
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
     
@@ -22,10 +22,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /HaworthStatusPage
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://media.discordapp.net/attachments/1069721282435883119/1072015861617012756/falklandstrazo.png?width=325&height=325
+  name: Haworth Roleplay
+  introTitle: "En **Haworth** Status podrás ver el estado de nuestros servidores."
+  introMessage: Los estados están en **tiempo real**.
   navbar:
     - title: Haworth Status
       href: /
