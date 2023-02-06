@@ -9,6 +9,8 @@ sites:
     url: https://foro.haworth-rp.com
   - name: Haworth Foro Law
     url: https://law.haworth-rp.com
+  - name: Test
+    url: https://testnotpage929231.com
     
 assignees:
   - SebaYB
