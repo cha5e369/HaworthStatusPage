@@ -14,7 +14,7 @@ sites:
   - name: Haworth Foro Law
     url: https://law.haworth-rp.com
   - name: Servidor de SA-MP
-    check: "ping"
+    check: "ip-ping"
     url: 198.251.81.222
     port: 7787
     
@@ -109,13 +109,4 @@ i18n:
   
   # Adicionales
   user-agent: SebaYB
-  
-  # Tiempo de actualización
-  workflowSchedule:
-  graphs: "0 0 * * *"
-  responseTime: "0 23 * * *"
-  staticSite: "0 1 * * *"
-  summary: "0 0 * * *"
-  updateTemplate: "0 0 * * *"
-  updates: "0 3 * * *"
-  uptime: "*/5 * * * *"
+
