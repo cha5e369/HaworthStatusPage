@@ -38,6 +38,9 @@ status-website:
 i18n: 
   activeIncidents: Incidentes activos
   allSystemsOperational: Todos los sistemas funcionan correctamente
+  degradedPerformance:  Rendimiento degradado
+  completeOutage: Apagado completo
+  partialOutage: Interrupción parcial
   incidentReport: "Incidente #$NUMBER →"
   activeIncidentSummary: Abierto el $DATE con $POSTS posts
   incidentTitle: Detalles del incidente $NUMBER 
