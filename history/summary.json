@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 610,
-    "timeDay": 610,
-    "timeWeek": 610,
-    "timeMonth": 610,
-    "timeYear": 610,
+    "time": 595,
+    "timeDay": 595,
+    "timeWeek": 595,
+    "timeMonth": 595,
+    "timeYear": 595,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1233,
-    "timeDay": 1233,
-    "timeWeek": 1233,
-    "timeMonth": 1233,
-    "timeYear": 1233,
+    "time": 1200,
+    "timeDay": 1200,
+    "timeWeek": 1200,
+    "timeMonth": 1200,
+    "timeYear": 1200,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1229,
-    "timeDay": 1229,
-    "timeWeek": 1229,
-    "timeMonth": 1229,
-    "timeYear": 1229,
+    "time": 1189,
+    "timeDay": 1189,
+    "timeWeek": 1189,
+    "timeMonth": 1189,
+    "timeYear": 1189,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/37.230.137.174.ico",
     "slug": "servidor-de-sa-mp-test",
     "status": "down",
-    "uptime": "6.17%",
-    "uptimeDay": "6.17%",
-    "uptimeWeek": "6.17%",
-    "uptimeMonth": "6.17%",
-    "uptimeYear": "6.17%",
+    "uptime": "0.13%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "0.13%",
+    "uptimeYear": "0.13%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-06": 0
+      "2023-02-06": 11
     }
   },
   {
