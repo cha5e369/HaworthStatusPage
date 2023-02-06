@@ -10,7 +10,7 @@ sites:
   - name: Haworth Foro Law
     url: https://law.haworth-rp.com
   - name: Test
-    url: https://testnotpage929231.com
+    url: https://sampmonitoring.com/web/api/396/
     
 assignees:
   - SebaYB
@@ -19,6 +19,8 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
+  apiBaseUrl: https://api.github.com
+  apiBaseUrl: https://sampmonitoring.com/web/api/396/
   theme: dark
   baseUrl: /HaworthStatusPage
   logoUrl: https://media.discordapp.net/attachments/1069721282435883119/1072015861617012756/falklandstrazo.png?width=325&height=325
