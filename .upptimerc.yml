@@ -4,7 +4,7 @@ repo: HaworthStatusPage # The name of this repository
 
 # Tema
 status-website:
-  theme: ocean
+  theme: dark
 
 sites:
   - name: Haworth Landing Page
@@ -13,8 +13,6 @@ sites:
     url: https://foro.haworth-rp.com
   - name: Haworth Foro Law
     url: https://law.haworth-rp.com
-  - name: Test
-    url: https://google.com
     
 assignees:
   - SebaYB
