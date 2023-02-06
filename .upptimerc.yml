@@ -10,7 +10,7 @@ sites:
   - name: Haworth Foro Law
     url: https://law.haworth-rp.com
   - name: Servidor de SA-MP (test)
-    url: https://37.230.137.174:7777
+    url: https://store.steampowered.com/
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
     
