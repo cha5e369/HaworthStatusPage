@@ -9,8 +9,8 @@ sites:
     url: https://foro.haworth-rp.com
   - name: Haworth Foro Law
     url: https://law.haworth-rp.com
-  - name: Servidor de SA-MP (US-RP test)
-    url: https://www.open.mp/servers/37.230.137.174:7777
+  - name: Servidor de SA-MP (test)
+    url: samp://37.230.137.174:7777
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
     
@@ -54,7 +54,7 @@ i18n:
   liveStatus: Estado en tiempo real
   overallUptime: "Tiempo de actividad general: $UPTIME"
   overallUptimeTitle: Tiempo de actividad general
-  averageResponseTime: "Average response time: $TIMEms"
+  averageResponseTime: "Tiempo de respuesta promedio: $TIMEms"
   averageResponseTimeTitle: Respuesta promedio
   sevelDayResponseTime: Tiempo de respuesta en los últimos 7 días
   responseTimeMs: Tiempo de respuesta (ms)
@@ -64,35 +64,35 @@ i18n:
   ms: ms
   loading: Cargando
   navGitHub: GitHub
-  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
-  rateLimitExceededTitle: Rate limit exceeded
-  rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
-  rateLimitExceededWhatDoesErrorMean: What does this error mean?
-  rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
-  rateLimitExceededErrorHowCanFix: How can I fix it?
-  rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
-  rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
-  rateLimitExceededHasSet: You have a personal access token set.
-  rateLimitExceededRemoveToken: Remove token
+  footer: Powered by [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: Excede el límite de velocidad
+  rateLimitExceededIntro: Ha superado el número de solicitudes que puede realizar en una hora, por lo que tendrá que esperar antes de volver a acceder a este sitio web. Alternativamente, puede agregar un token de acceso personal de GitHub para continuar usando este sitio web.
+  rateLimitExceededWhatDoesErrorMean: ¿Qué significa este error?
+  rateLimitExceededErrorMeaning: Este sitio web utiliza la API de GitHub para acceder a datos en tiempo real sobre el estado de nuestros sitios web. De manera predeterminada, GitHub permite que cada dirección IP realice 60 solicitudes por hora, las que ha consumido.
+  rateLimitExceededErrorHowCanFix: ¿Cómo puedo arreglarlo?
+  rateLimitExceededErrorFix: Puede esperar otra hora y se restablecerá el límite de su dirección IP. Como alternativa, puede agregar su token de acceso personal de GitHub, que le brinda 5000 solicitudes adicionales por hora.
+  rateLimitExceededGeneratePAT: Aprenda a generar un Personal Access Token.
+  rateLimitExceededHasSet: Ya tienes un Personal Access Token colocado.
+  rateLimitExceededRemoveToken: Eliminar token
   rateLimitExceededGitHubPAT: GitHub Personal Access Token
-  rateLimitExceededCopyPastePAT: Copy and paste your token
-  rateLimitExceededSaveToken: Save token
-  errorTitle: An error occurred
-  errorIntro: An error occurred in trying to get the latest status details.
-  errorText: You can try again in a few moments.
-  errorHome: Go to the homepage
-  pastScheduledMaintenance: Past Scheduled Maintenance
-  scheduledMaintenance: Scheduled Maintenance
-  scheduledMaintenanceSummaryStarted: Started at $DATE for $DURATION minutes
-  scheduledMaintenanceSummaryStarts: Starts at $DATE for $DURATION minutes
-  startedAt: Started at
-  startsAt: Starts at
-  duration: Duration
-  durationMin: $DURATION minutes
-  incidentCompleted: Completed
-  incidentScheduled: Scheduled
+  rateLimitExceededCopyPastePAT: Copia y pega tu token
+  rateLimitExceededSaveToken: Guardar token
+  errorTitle: Ha ocurrido un error
+  errorIntro: Se produjo un error al intentar obtener los detalles de estado más recientes.
+  errorText: Puedes volver a intentarlo en unos momentos.
+  errorHome: Ir al inicio
+  pastScheduledMaintenance: Mantenimiento programado pasado
+  scheduledMaintenance: Mantenimiento programado
+  scheduledMaintenanceSummaryStarted: Iniciado el $DATE por $DURATION minutos
+  scheduledMaintenanceSummaryStarts: Inicia el $DATE por $DURATION minutos
+  startedAt: Iniciado el
+  startsAt: Inicia el
+  duration: Duración
+  durationMin: $DURATION minutos
+  incidentCompleted: Completado
+  incidentScheduled: Programado
   duration24H: 24h
   duration7D: 7d
   duration30D: 30d
   duration1Y: 1y
-  durationAll: 
+  durationAll: todo
