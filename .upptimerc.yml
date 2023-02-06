@@ -13,10 +13,6 @@ sites:
     url: https://foro.haworth-rp.com
   - name: Haworth Foro Law
     url: https://law.haworth-rp.com
-  - name: Servidor de SA-MP
-    check: "ip-ping"
-    url: 198.251.81.222
-    port: 7787
     
 assignees:
   - SebaYB
