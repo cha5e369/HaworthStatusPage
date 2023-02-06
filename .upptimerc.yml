@@ -2,6 +2,10 @@
 owner: SebaYB # Your GitHub organization or username, where this repository lives
 repo: HaworthStatusPage # The name of this repository
 
+# Tema
+status-website:
+  theme: ocean
+
 sites:
   - name: Haworth Landing Page
     url: https://haworth-rp.com
@@ -10,7 +14,7 @@ sites:
   - name: Haworth Foro Law
     url: https://law.haworth-rp.com
   - name: Servidor de SA-MP
-    check: "tcp-ping"
+    check: "ping"
     url: 198.251.81.222
     port: 7787
     
@@ -105,3 +109,13 @@ i18n:
   
   # Adicionales
   user-agent: SebaYB
+  
+  # Tiempo de actualización
+  workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
