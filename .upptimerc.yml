@@ -5,10 +5,10 @@ repo: HaworthStatusPage # The name of this repository
 sites:
   - name: Haworth Landing Page
     url: https://haworth-rp.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Haworth Foro
+    url: https://foro.haworth-rp.com
+  - name: Haworth Law Foro
+    url: https://law.haworth-rp.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
     
