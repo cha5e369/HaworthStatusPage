@@ -1,40 +1,40 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Crea un reporte para ayudarnos a mejorar
 title: ''
 labels: 'bug'
-assignees: 'AnandChowdhary'
+assignees: 'SebaYB'
 
 ---
 
 <!-- If you have a question, you should use Discussions instead: https://github.com/upptime/upptime/discussions -->
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Describe el bug**
+Una descripción clara y concisa de lo que es el error.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**A seguir para recrear**
+Pasos para recrear el comportamiento:
+1. Ir a '...'
+2. Clic en '....'
+3. Desplazarse hacia abajo en '....'
+4. Ver el error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Comportamiento esperado**
+Una descripción clara y concisa de lo que esperaba que sucediera.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Capturas de pantalla**
+Si corresponde, agregue capturas de pantalla para ayudar a explicar su problema.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Escritorio (Por favor complete la siguiente información):**
+ - Sistema operativo: [ej: iOS]
+ - Navegador [ej: chrome, safari]
+ - Versión [ej: 22]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**Celular (Por favor complete la siguiente información):**
+ - Dispositivo: [ej: iPhone6]
+ - Sistema operativo: [ej: iOS8.1]
+ - Navegador [ej: stock browser, safari]
+ - Versión [ej: 22]
 
-**Additional context**
-Add any other context about the problem here.
+**Contexto adicional**
+Agregue cualquier otro contexto sobre el problema aquí.
